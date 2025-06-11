@@ -2,6 +2,8 @@
 
 This project is for MongoDB Fundamentals Week 1.
 
+![Project Screenshot](screenshot.png)
+
 ## How to Run the Scripts
 
 ### 1. insert_books.js
@@ -12,5 +14,3 @@ To run:
 
 ```bash
 mongosh < insert_books.js
-
-here is the image screenshot.png
